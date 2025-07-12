@@ -34,11 +34,6 @@ This project uses logistic regression to predict passenger survival on the Titan
 - Split into training and test sets (`70/30`).
 - Trained with `LogisticRegression()` from `sklearn`.
 
-### Random Forest (for comparison)
-
-- Trained `RandomForestClassifier` with different `n_estimators` using `cross_val_score`.
-- Plotted accuracy vs. number of trees.
-
 ---
 
 ## 📊 Evaluation
